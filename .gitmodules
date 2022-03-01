@@ -1,3 +1,6 @@
 [submodule "collision"]
 	path = collision
 	url = https://github.com/Elv13/collision.git
+[submodule "bling"]
+	path = bling
+	url = https://github.com/BlingCorp/bling.git

@@ -584,3 +584,4 @@ beautiful.useless_gap = 5
 awful.spawn.with_shell("picom --config /home/slain/.config/picom/picom.conf -b")
 awful.spawn.with_shell("nitrogen --restore")
 awful.spawn.with_shell("unclutter")
+awful.spawn.with_shell("nextcloud")
